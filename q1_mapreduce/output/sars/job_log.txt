@@ -1,0 +1,18 @@
+Job:        keyword-search
+Keyword:    "SARS" (case-insensitive, whole word)
+Started:    2026-11-12 11:39:57
+Elapsed:    12.8 seconds
+
+Counters
+  Map tasks (documents):          7
+  Map input records (lines):      307
+  Map output records (matches):   11
+  Reduce tasks:                   1
+  Reduce input groups (docs):     1
+  Reduce output records:          1
+
+Documents without a match: doc2.txt, doc3.txt, doc4.txt, doc5.txt, doc6.txt, doc7.txt
+
+Output (output/sars/part-00000):
+document	matches	locations (row,col)
+doc1.txt	11	(3,36) (5,51) (9,80) (11,30) (17,164) (19,4) (33,7) (42,1) (46,136) (52,91) (53,119)
