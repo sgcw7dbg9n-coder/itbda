@@ -1,0 +1,21 @@
+Job:        keyword-search
+Keyword:    "africa" (case-insensitive, whole word)
+Started:    2026-11-12 09:59:02
+Elapsed:    4.3 seconds
+
+Counters
+  Map tasks (documents):          7
+  Map input records (lines):      307
+  Map output records (matches):   16
+  Reduce tasks:                   1
+  Reduce input groups (docs):     4
+  Reduce output records:          4
+
+Documents without a match: doc4.txt, doc6.txt, doc7.txt
+
+Output (output/africa/part-00000):
+document	matches	locations (row,col)
+doc1.txt	1	(1,64)
+doc2.txt	3	(1,57) (33,24) (58,81)
+doc3.txt	8	(1,38) (3,7) (5,7) (40,146) (46,7) (50,142) (52,86) (54,44)
+doc5.txt	4	(1,62) (3,88) (23,121) (38,27)

@@ -1,0 +1,3 @@
+method,n_sentences,words,sections_covered,shared_with_other,compression_pct
+Word frequency,8,186,6,3,4.4
+TextRank,8,260,5,3,6.1

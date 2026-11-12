@@ -1,0 +1,5 @@
+topic,entropy_bits,top_k_mass,prevalence,dominant_in,label,prevalence_rank
+2,6.868469350500204,0.23941605839416055,0.28459711365220214,"news_1.txt, news_10.txt, news_4.txt, news_5.txt","Topic 2: eskom, police, expect",1
+4,6.400913549500261,0.36728837876614057,0.2533508963650059,"news_6.txt, news_9.txt","Topic 4: service, invoice, pay",2
+3,6.678268841034293,0.2874806800618238,0.23147549711540155,"news_2.txt, news_3.txt","Topic 3: department, priority, report",3
+1,6.514501236536644,0.3448275862068966,0.23057649286739043,"news_7.txt, news_8.txt","Topic 1: government, public, coalition",4
